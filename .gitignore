@@ -1,0 +1,4 @@
+*~  # backup/intermediate files
+*.sw[op]  # Vim swap files
+test  # tests
+
