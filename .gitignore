@@ -1,9 +1,5 @@
-# backup/intermediate files
-*~
+# Proteus project files
+*.pdsbak
+*.workspace
 
-# Vim swap files
-*.sw[op]
-
-# test files
-test/
-
+dist/
