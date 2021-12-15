@@ -4,7 +4,7 @@
 
 #define _XTAL_FREQ 50000000
 
-#include "../i2c.h"
+#include "../../i2c.h"
 
 void main(void)
 {
