@@ -1,4 +1,3 @@
 # pic-lib
 
-A collection of my self-written libraries for Microcohip PICs.
-
+A collection of [mostly self-written] C libraries for PIC microntrollers.
